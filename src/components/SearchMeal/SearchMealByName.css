@@ -1,0 +1,19 @@
+
+.container {
+    background-color: #f7f7f7;
+    max-width: 1000px;
+    min-height: 100vh;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 20px;
+  }
+  
+.meals {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  

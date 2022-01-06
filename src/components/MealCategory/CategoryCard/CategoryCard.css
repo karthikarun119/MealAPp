@@ -1,0 +1,28 @@
+.card {
+    width: 200px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+    padding-bottom: 10px;
+  }
+  
+  .card-image {
+    width: 100%;
+  }
+  
+  .card-body {
+    padding: 10px;
+    text-align: center;
+  }  
+  
+.category {
+    color: #a1a1a1;
+  }
+  
+  a {
+    background-color: #FFBA5A;
+    color: inherit;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+  }
